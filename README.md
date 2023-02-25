@@ -1,7 +1,7 @@
 ![pykont](pykont.png)
 
-# pykont
-software open-source de contabilitate primara
+#
+:gear: software open-source de contabilitate primara
 
 Dezvoltator:
 * Andrei V.
